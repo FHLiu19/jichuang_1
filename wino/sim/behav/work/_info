@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FH/Desktop/wino/sim/behav
+T_opt
+!s110 1677568090
+VAHXHG8kXBnjmf^78V2fl^0
+04 7 4 work wino_tb fast 0
+=1-fc34974c2946-63fda859-3cc-1a60
+o-quiet -auto_acc_if_foreign -work work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vwino_tb
+Z2 !s110 1677568088
+!i10b 1
+!s100 MGG<`eQnU[maPOUWm_BHe2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiknzNj8kY0]=R?HO64>cS2
+R0
+w1677556124
+8C:/Users/FH/Desktop/wino/source/Desktop/wino_tb.v
+FC:/Users/FH/Desktop/wino/source/Desktop/wino_tb.v
+!i122 1
+L0 3 108
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1677568088.000000
+!s107 C:/Users/FH/Desktop/wino/source/Desktop/wino_tb.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/wino/source/Desktop/wino_tb.v|-work|work|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vwinograd_d_fixpt
+R2
+!i10b 1
+!s100 o>W`8XD3R`Cb0F^dN1h9:0
+R3
+I2:CR0_oba9JDc9N8_=JE^1
+R0
+w1677554311
+8C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v
+FC:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v
+!i122 0
+L0 28 873
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v|-work|work|
+!i113 0
+R7
+R1

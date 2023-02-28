@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="3">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+        </column_headers>
+        <row>
+            <data>2.21875</data>
+            <data>6</data>
+            <data>124,227,584</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v(line number: 28)] Analyzing module winograd_d_fixpt (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Module &quot;winograd_d_fixpt&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/wino/source/Desktop/winograd_d_fixpt.v(line number: 28)] Elaborating module winograd_d_fixpt</data>
+        </row>
+    </table>
+    <general_container id="compile_settings" align="1">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-7MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>winograd_d_fixpt</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>System Verilog</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>C:/Users/FH/Desktop/wino	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="3">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+        </column_headers>
+        <row>
+            <data>2.07812</data>
+            <data>4</data>
+            <data>122,511,360</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v(line number: 1)] Analyzing module conv (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v(line number: 3)] Analyzing module line_buffer (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v(line number: 3)] Analyzing module matrix_3x3 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v(line number: 20)] Analyzing module fifo0 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 22)] Analyzing module ipm_distributed_sdpram_v1_2_fifo0 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2010: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 59)] Ignoring initial statements expect force and memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2010: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 64)] Ignoring initial statements expect force and memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2010: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 70)] Ignoring initial statements expect force and memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v(line number: 21)] Analyzing module ipm_distributed_fifo_v1_2_fifo0 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 18)] Analyzing module ipm_distributed_fifo_ctr_v1_0 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Module &quot;conv&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v(line number: 1)] Elaborating module conv</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module matrix_3x3</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module line_buffer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v(line number: 20)] Elaborating module fifo0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v(line number: 21)] Elaborating module ipm_distributed_fifo_v1_2_fifo0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 22)] Elaborating module ipm_distributed_sdpram_v1_2_fifo0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 56)] Net i in module ipm_distributed_sdpram_v1_2_fifo0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v(line number: 56)] Net j in module ipm_distributed_sdpram_v1_2_fifo0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 18)] Elaborating module ipm_distributed_fifo_ctr_v1_0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 46)] Net wrptr1 in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 48)] Net wbin in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 57)] Net rwptr1 in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 59)] Net rbin in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 67)] Net asyn_wfull in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 68)] Net asyn_almost_full in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 69)] Net asyn_rempty in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 70)] Net asyn_almost_empty in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 81)] Net ASYN_CTRL.i in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v(line number: 131)] Net ASYN_CTRL.j in module ipm_distributed_fifo_ctr_v1_0 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module line_buffer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module line_buffer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module matrix_3x3</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v(line number: 3)] Elaborating module matrix_3x3</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v(line number: 93)] Net sum in module conv does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Sdm-0001: Found Ram mem, depth=16, width=16.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N21 (bmsWIDEMUX).</data>
+        </row>
+    </table>
+    <general_container id="compile_settings" align="1">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-7MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>conv</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>System Verilog</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>C:/Users/FH/Desktop/conv3x3	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

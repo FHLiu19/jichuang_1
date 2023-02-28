@@ -1,0 +1,114 @@
+# Reading pref.tcl
+# //  ModelSim SE-64 2020.4 Oct 13 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {run_behav_compile.tcl}
+# Model Technology ModelSim SE-64 vmap 2020.4 Lib Mapping Utility 2020.10 Oct 13 2020
+# vmap work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:43 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/source/Desktop/conv.v -work work 
+# -- Compiling module conv
+# 
+# Top level modules:
+# 	conv
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:44 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/source/Desktop/line_buffer.v -work work 
+# -- Compiling module line_buffer
+# 
+# Top level modules:
+# 	line_buffer
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:44 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/source/matrix_3x3/source/Desktop/line_buffer.v -work work 
+# -- Compiling module matrix_3x3
+# 
+# Top level modules:
+# 	matrix_3x3
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:44 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v -work work 
+# -- Compiling module ipm_distributed_fifo_ctr_v1_0
+# 
+# Top level modules:
+# 	ipm_distributed_fifo_ctr_v1_0
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:44 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v -work work 
+# -- Compiling module ipm_distributed_fifo_v1_2_fifo0
+# 
+# Top level modules:
+# 	ipm_distributed_fifo_v1_2_fifo0
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:44 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v -work work 
+# -- Compiling module ipm_distributed_sdpram_v1_2_fifo0
+# 
+# Top level modules:
+# 	ipm_distributed_sdpram_v1_2_fifo0
+# End time: 15:05:44 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:45 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v -work work 
+# -- Compiling module fifo0
+# 
+# Top level modules:
+# 	fifo0
+# End time: 15:05:45 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 15:05:45 on Feb 28,2023
+# vlog -reportprogress 300 C:/Users/FH/Desktop/conv3x3/source/Desktop/conv_tb.v -work work 
+# -- Compiling module conv_tb
+# 
+# Top level modules:
+# 	conv_tb
+# End time: 15:05:45 on Feb 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -voptargs=""+acc"" -L work conv_tb 
+# Start time: 15:05:45 on Feb 28,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v(83): (vopt-2685) [TFMPC] - Too few port connections for 'u_ipm_distributed_fifo_fifo0'.  Expected 14, found 12.
+# ** Warning: C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v(83): (vopt-2718) [TFMPC] - Missing connection for port 'rd_water_level'.
+# ** Warning: C:/Users/FH/Desktop/conv3x3/ipcore/fifo0/fifo0.v(83): (vopt-2718) [TFMPC] - Missing connection for port 'wr_water_level'.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=3.
+# Loading work.conv_tb(fast)
+# Loading work.conv(fast)
+# Loading work.matrix_3x3(fast)
+# Loading work.line_buffer(fast)
+# Loading work.fifo0(fast)
+# Loading work.ipm_distributed_fifo_v1_2_fifo0(fast)
+# Loading work.ipm_distributed_sdpram_v1_2_fifo0(fast)
+# Loading work.ipm_distributed_fifo_ctr_v1_0(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : C:/Users/FH/Desktop/conv3x3/source/Desktop/conv_tb.v(194)
+#    Time: 48800 ns  Iteration: 0  Instance: /conv_tb
+# Break in Module conv_tb at C:/Users/FH/Desktop/conv3x3/source/Desktop/conv_tb.v line 194
+# End time: 15:06:38 on Feb 28,2023, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 3

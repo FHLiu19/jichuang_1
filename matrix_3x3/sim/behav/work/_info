@@ -1,0 +1,181 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FH/Desktop/matrix_3x3/sim/behav
+T_opt
+!s110 1677567854
+V04oiCOOM4U3gRzd71z[Zh1
+04 13 4 work matrix_3x3_tb fast 0
+=1-fc34974c2946-63fda76d-2ed-7280
+o-quiet -auto_acc_if_foreign -work work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vfifo_0
+Z2 !s110 1677567852
+!i10b 1
+!s100 @IjO1mF`2WGLPiKldgUJg2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoLMko8T3Ghf_zMN^0Nnzn0
+R0
+Z4 w1677393242
+8C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/fifo_0.v
+FC:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/fifo_0.v
+!i122 5
+L0 20 85
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1677567852.000000
+!s107 C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/fifo_0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/fifo_0.v|-work|work|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vipm_distributed_fifo_ctr_v1_0
+Z9 !s110 1677567851
+!i10b 1
+!s100 fcW4BfbR6eRg9_cWU8hiH0
+R3
+IMKVJk?ddN02fZTRYMJ@2Y3
+R0
+w1615801262
+8C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_ctr_v1_0.v
+FC:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_ctr_v1_0.v
+!i122 2
+L0 18 351
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1677567851.000000
+!s107 C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_ctr_v1_0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_ctr_v1_0.v|-work|work|
+!i113 0
+R8
+R1
+vipm_distributed_fifo_v1_2_fifo_0
+R9
+!i10b 1
+!s100 OB>>5eWncXnQ8YOLWieEb1
+R3
+I=Ro>U[a7:i`6A0V6VMf3<0
+R0
+R4
+8C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_v1_2_fifo_0.v
+FC:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_v1_2_fifo_0.v
+!i122 3
+L0 21 84
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_v1_2_fifo_0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_fifo_v1_2_fifo_0.v|-work|work|
+!i113 0
+R8
+R1
+vipm_distributed_sdpram_v1_2_fifo_0
+R2
+!i10b 1
+!s100 ;OLo9kon=[iMQ_A8^R0Hl2
+R3
+IWS:z[>^dEfd`E4@D1fZMk3
+R0
+R4
+8C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_sdpram_v1_2_fifo_0.v
+FC:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_sdpram_v1_2_fifo_0.v
+!i122 4
+L0 22 90
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_sdpram_v1_2_fifo_0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/ipcore/fifo_0/rtl/ipm_distributed_sdpram_v1_2_fifo_0.v|-work|work|
+!i113 0
+R8
+R1
+vline_buffer
+R9
+!i10b 1
+!s100 J=R=iVzbI59g8A:i4WN5`0
+R3
+IY<F:[U8I@0@08QWVmglTH3
+R0
+w1677393432
+8C:/Users/FH/Desktop/matrix_3x3/source/FH/Desktop/line_buffer.v
+FC:/Users/FH/Desktop/matrix_3x3/source/FH/Desktop/line_buffer.v
+!i122 1
+L0 3 84
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/matrix_3x3/source/FH/Desktop/line_buffer.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/source/FH/Desktop/line_buffer.v|-work|work|
+!i113 0
+R8
+R1
+vmatrix_3x3
+R9
+!i10b 1
+!s100 A:ibno:iCBgQ=0`SWT?H=0
+R3
+I]26oX@FHlU[09NPiZ`VJR1
+R0
+w1677382745
+8C:/Users/FH/Desktop/matrix_3x3/source/Desktop/line_buffer.v
+FC:/Users/FH/Desktop/matrix_3x3/source/Desktop/line_buffer.v
+!i122 0
+L0 3 97
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/matrix_3x3/source/Desktop/line_buffer.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/source/Desktop/line_buffer.v|-work|work|
+!i113 0
+R8
+R1
+vmatrix_3x3_tb
+R2
+!i10b 1
+!s100 G>6VWNEba?=N0]J^43Qi40
+R3
+Ii^PUI8i20zg?_]YHcf3mc1
+R0
+w1677391850
+8C:/Users/FH/Desktop/matrix_3x3/source/Desktop/matrix_3x3_tb.v
+FC:/Users/FH/Desktop/matrix_3x3/source/Desktop/matrix_3x3_tb.v
+!i122 6
+L0 4 55
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/FH/Desktop/matrix_3x3/source/Desktop/matrix_3x3_tb.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/matrix_3x3/source/Desktop/matrix_3x3_tb.v|-work|work|
+!i113 0
+R8
+R1

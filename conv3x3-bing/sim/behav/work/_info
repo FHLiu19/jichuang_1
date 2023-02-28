@@ -1,0 +1,204 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FH/Desktop/conv3x3-bing/sim/behav
+T_opt
+!s110 1677568167
+VEMzzAQY52TQLiTd7Ko0iz3
+04 7 4 work conv_tb fast 0
+=1-fc34974c2946-63fda8a7-158-41bc
+o-quiet -auto_acc_if_foreign -work work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vconv
+Z2 !s110 1677568162
+!i10b 1
+!s100 hmI?M8ROMKP0blhi:>6z^2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcUebCQR4?c8D9^OaJ5Uk72
+R0
+w1677502356
+8C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv.v
+FC:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv.v
+!i122 0
+L0 1 284
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1677568162.000000
+!s107 C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv.v|-work|work|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vconv_tb
+!s110 1677568165
+!i10b 1
+!s100 >X?9PZM]Wz0=mOkG0e9H10
+R3
+IBEB[R>`S^4;^m^8OP?_nb1
+R0
+w1677562466
+8C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv_tb.v
+FC:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv_tb.v
+!i122 7
+L0 64 168
+R4
+R5
+r1
+!s85 0
+31
+!s108 1677568165.000000
+!s107 C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv_tb.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/conv_tb.v|-work|work|
+!i113 0
+R7
+R1
+vfifo0
+Z8 !s110 1677568163
+!i10b 1
+!s100 8E9cRdHeY_iWVQGZQ4V0d0
+R3
+IlST^gDf9iYaEYFngGe9LU2
+R0
+Z9 w1677492834
+8C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/fifo0.v
+FC:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/fifo0.v
+!i122 6
+L0 20 85
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1677568163.000000
+!s107 C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/fifo0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/fifo0.v|-work|work|
+!i113 0
+R7
+R1
+vipm_distributed_fifo_ctr_v1_0
+R2
+!i10b 1
+!s100 fcW4BfbR6eRg9_cWU8hiH0
+R3
+I^<Q=4BMWlgY7LAd2TfVjF1
+R0
+w1615801262
+8C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v
+FC:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v
+!i122 3
+L0 18 351
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_ctr_v1_0.v|-work|work|
+!i113 0
+R7
+R1
+vipm_distributed_fifo_v1_2_fifo0
+R8
+!i10b 1
+!s100 Y5IZ6lG?cJ4UicQQTJNA]2
+R3
+I8>Hh>mNWmk15HPCzB<IT;2
+R0
+R9
+8C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v
+FC:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v
+!i122 4
+L0 21 84
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_fifo_v1_2_fifo0.v|-work|work|
+!i113 0
+R7
+R1
+vipm_distributed_sdpram_v1_2_fifo0
+R8
+!i10b 1
+!s100 Bd@LjB:lmMW3OSF6F2jJ;0
+R3
+I_Kh8C2cTPXFWnKIEMYb3V1
+R0
+R9
+8C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v
+FC:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v
+!i122 5
+L0 22 90
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/ipcore/fifo0/rtl/ipm_distributed_sdpram_v1_2_fifo0.v|-work|work|
+!i113 0
+R7
+R1
+vline_buffer
+R2
+!i10b 1
+!s100 E7jRnAa___=iKU2k_WAOF1
+R3
+IM1E7=1DO<8b5gRnVbb9k;2
+R0
+w1677493898
+8C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/line_buffer.v
+FC:/Users/FH/Desktop/conv3x3-bing/source/Desktop/line_buffer.v
+!i122 1
+L0 3 84
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/line_buffer.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/source/Desktop/line_buffer.v|-work|work|
+!i113 0
+R7
+R1
+vmatrix_3x3
+R2
+!i10b 1
+!s100 zKo3AHfP>dD]SFGRFXWUE2
+R3
+IADn@hJ6mE7kiDbZgd2YS03
+R0
+w1677493843
+8C:/Users/FH/Desktop/conv3x3-bing/source/matrix_3x3/source/Desktop/line_buffer.v
+FC:/Users/FH/Desktop/conv3x3-bing/source/matrix_3x3/source/Desktop/line_buffer.v
+!i122 2
+L0 3 97
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/FH/Desktop/conv3x3-bing/source/matrix_3x3/source/Desktop/line_buffer.v|
+!s90 -reportprogress|300|C:/Users/FH/Desktop/conv3x3-bing/source/matrix_3x3/source/Desktop/line_buffer.v|-work|work|
+!i113 0
+R7
+R1
